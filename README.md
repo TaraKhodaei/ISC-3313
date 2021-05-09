@@ -48,7 +48,8 @@ Random Numbers/Monte Carlo
 
 Special thanks to:
 
-[Jake VanderPlas](https://jakevdp.github.io) for many of the materials that have gone into this course. Specifically his work:
-A Whirlwind Tour of Python
-Python Data Science Handbook
-and lastly the Scipy Lecture Notes for many examples and explanations.
+* [Jake VanderPlas](https://jakevdp.github.io) for many of the materials that have gone into this course. Specifically his work:
+  * A Whirlwind Tour of Python
+  * Python Data Science Handbook
+* [Eitan Lees](https://github.com/eitanlees) for lecture materials.
+* and lastly the [Scipy Lecture Notes](http://scipy-lectures.org/index.html) for many examples and explanations.
