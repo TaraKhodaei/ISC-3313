@@ -3,17 +3,17 @@ ISC-3313: Introduction to Scientific Computing (Summer2020 &amp; Summer2021)
 
 ## Course Information
 
-Time: Tu/Th 11:30am - 12:50pm
+**Time:** Tu/Th 11:30am - 12:50pm
 
-Location: DSL 0499
+**Location:** DSL 0499
 
-Instructor Information
+## Instructor Information
 
-Name: Marzieh (Tara) Khodaei
+**Name:** Marzieh (Tara) Khodaei
 
-Email: mk16e@my.fsu.edu
+**Email:** mk16e@my.fsu.edu
 
-Office Hours: Wed 11:00am-12:00pm
+**Office Hours:** Wed 11:00am-12:00pm
 
 ## Course Outline
 
