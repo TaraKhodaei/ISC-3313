@@ -34,9 +34,9 @@ We will cover the basics of programming with python as well as some more advance
  * File IO, Command Line Arguments, OS and Sys modules
 
 * Scientific Python
- * Scipy, Linalg, Stats, Interpolate, Optimize
- * Pandas, DataFrames, Time Series
- * Machine Learning, Scikit-Learn, Student Presentations
+  * Scipy, Linalg, Stats, Interpolate, Optimize
+  * Pandas, DataFrames, Time Series
+  * Machine Learning, Scikit-Learn, Student Presentations
  
 In addition to the outline above, we will have select lectures on specific math topics, including but not limited to:
 
