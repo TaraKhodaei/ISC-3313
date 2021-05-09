@@ -19,31 +19,30 @@ ISC-3313: Introduction to Scientific Computing (Summer2020 &amp; Summer2021)
 
 We will cover the basics of programming with python as well as some more advanced features. The topics will be broken up into four modules as such:
 
-- Python Fundamentals
+* Python Fundamentals
+ * Introduction, Installation, and Basic Syntax
+ * Variables, Arithmetic and Boolean Operations, Scalar and Structured Data Types
+ * Conditional Flow and Loops, Defining Functions
 
-Introduction, Installation, and Basic Syntax
-Variables, Arithmetic and Boolean Operations, Scalar and Structured Data Types
-Conditional Flow and Loops, Defining Functions
-- Beyond Base Python
+* Beyond Base Python
+ * Creating/Installing Modules, Docstrings, Conda vs. Pip
+ * Numpy, Ndarrays, Ufuncs, Aggregations
+ * Matplotlib, Point/Line Plots, Contour/3D Plots, Subplots/Customization
+* Advanced Python
+ * Classes, Attributes, Methods, Polymorphism
+ * List Comprehension, Flexible Arguments, Map/Filter
+ * File IO, Command Line Arguments, OS and Sys modules
 
-Creating/Installing Modules, Docstrings, Conda vs. Pip
-Numpy, Ndarrays, Ufuncs, Aggregations
-Matplotlib, Point/Line Plots, Contour/3D Plots, Subplots/Customization
-- Advanced Python
-
-Classes, Attributes, Methods, Polymorphism
-List Comprehension, Flexible Arguments, Map/Filter
-File IO, Command Line Arguments, OS and Sys modules
-- Scientific Python
-
-Scipy, Linalg, Stats, Interpolate, Optimize
-Pandas, DataFrames, Time Series
-Machine Learning, Scikit-Learn, Student Presentations
+* Scientific Python
+ * Scipy, Linalg, Stats, Interpolate, Optimize
+ * Pandas, DataFrames, Time Series
+ * Machine Learning, Scikit-Learn, Student Presentations
+ 
 In addition to the outline above, we will have select lectures on specific math topics, including but not limited to:
 
-Ordinary Differential Equations
-Numerical Calculus
-Random Numbers/Monte Carlo
+- Ordinary Differential Equations
+- Numerical Calculus
+- Random Numbers/Monte Carlo
 ## Acknowledgements
 
 Special thanks to:
@@ -51,5 +50,5 @@ Special thanks to:
 * [Jake VanderPlas](https://jakevdp.github.io) for many of the materials that have gone into this course. Specifically his work:
   * A Whirlwind Tour of Python
   * Python Data Science Handbook
-* [Eitan Lees](https://github.com/eitanlees) for lecture materials.
+* Special thanks to [Eitan Lees](https://github.com/eitanlees) for course materials.
 * and lastly the [Scipy Lecture Notes](http://scipy-lectures.org/index.html) for many examples and explanations.
