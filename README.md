@@ -15,26 +15,26 @@ Email: mk16e@my.fsu.edu
 
 Office Hours: Wed 11:00am-12:00pm
 
-Course Outline
+## Course Outline
 
 We will cover the basics of programming with python as well as some more advanced features. The topics will be broken up into four modules as such:
 
-Python Fundamentals
+- Python Fundamentals
 
 Introduction, Installation, and Basic Syntax
 Variables, Arithmetic and Boolean Operations, Scalar and Structured Data Types
 Conditional Flow and Loops, Defining Functions
-Beyond Base Python
+- Beyond Base Python
 
 Creating/Installing Modules, Docstrings, Conda vs. Pip
 Numpy, Ndarrays, Ufuncs, Aggregations
 Matplotlib, Point/Line Plots, Contour/3D Plots, Subplots/Customization
-Advanced Python
+- Advanced Python
 
 Classes, Attributes, Methods, Polymorphism
 List Comprehension, Flexible Arguments, Map/Filter
 File IO, Command Line Arguments, OS and Sys modules
-Scientific Python
+- Scientific Python
 
 Scipy, Linalg, Stats, Interpolate, Optimize
 Pandas, DataFrames, Time Series
