@@ -50,5 +50,5 @@ Special thanks to:
 * [Jake VanderPlas](https://jakevdp.github.io) for many of the materials that have gone into this course. Specifically his work:
   * A Whirlwind Tour of Python
   * Python Data Science Handbook
-* Special thanks to [Eitan Lees](https://github.com/eitanlees) for course materials.
+* [Eitan Lees](https://github.com/eitanlees) for course materials.
 * and lastly the [Scipy Lecture Notes](http://scipy-lectures.org/index.html) for many examples and explanations.
