@@ -11,7 +11,7 @@ ISC-3313: Introduction to Scientific Computing (Summer2020 &amp; Summer2021)
 
 **Name:** Marzieh (Tara) Khodaei
 
-**Email:** mk16e@my.fsu.edu
+**Email:** mk16e@fsu.edu
 
 **Office Hours:** Wed 11:00am-12:00pm
 
@@ -47,8 +47,5 @@ In addition to the outline above, we will have select lectures on specific math 
 
 Special thanks to:
 
-* [Jake VanderPlas](https://jakevdp.github.io) for many of the materials that have gone into this course. Specifically his work:
-  * A Whirlwind Tour of Python
-  * Python Data Science Handbook
 * [Eitan Lees](https://github.com/eitanlees) for course materials.
-* and lastly the [Scipy Lecture Notes](http://scipy-lectures.org/index.html) for many examples and explanations.
+* and the [Scipy Lecture Notes](http://scipy-lectures.org/index.html) for many examples and explanations.
